@@ -1,8 +1,8 @@
 # oauth2 with golang
 
 ``` 
-git clone XXX
-cd XXX
+git clone git@github.com:kj187/oauth2-golang-example.git
+cd git@github.com:kj187/oauth2-golang-example.git
 source .env
 go run main.go
 ```
