@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44deab53-a200-47bb-bc05-29e7be000fba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15/libexec" />
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hDZm6S6XipwvjSZ95mYYxVn7ED" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1679" y="199" key="#Go_Modules_(vgo)" timestamp="1599548475234">
+      <screen x="0" y="23" width="2560" height="1019" />
+    </state>
+    <state x="1679" y="199" key="#Go_Modules_(vgo)/2560.-671.1080.1897/-1680.23.1680.1027/0.23.2560.1019@0.23.2560.1019" timestamp="1599548475234" />
+    <state x="1379" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599563731679">
+      <screen x="0" y="23" width="2560" height="1019" />
+    </state>
+    <state x="1379" y="342" key="#com.intellij.fileTypes.FileTypeChooser/2560.-671.1080.1897/-1680.23.1680.1027/0.23.2560.1019@0.23.2560.1019" timestamp="1599563731679" />
+    <state x="950" y="171" key="SettingsEditor" timestamp="1599547821767">
+      <screen x="0" y="23" width="2560" height="1019" />
+    </state>
+    <state x="950" y="171" key="SettingsEditor/2560.-671.1080.1897/-1680.23.1680.1027/0.23.2560.1019@0.23.2560.1019" timestamp="1599547821767" />
+  </component>
+</project>
